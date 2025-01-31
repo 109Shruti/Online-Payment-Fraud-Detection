@@ -1,4 +1,4 @@
-# Online-Payment-Fraud-Detection
+# PayGuard- Online-Payment-Fraud-Detection
 To combat the risk of fraudulent activities that has risen significantly due to increasing reliance on digital payment methods this project **Online Fraud Payment Detection** uses Machine Learning techniques identify and prevent fraudulent online payment transactions.
 
 **Objective:**
